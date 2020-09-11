@@ -1,4 +1,4 @@
-Follow-on paper is available (here)[https://ieeexplore.ieee.org/abstract/document/8741696].
+Follow-on paper is available [here](https://ieeexplore.ieee.org/abstract/document/8741696).
 
 A simulator and A*-based motion primitive path planner for a 4-limbed, wall-climbing robot. 
 
